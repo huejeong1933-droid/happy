@@ -1,0 +1,6 @@
+{
+  "name": "따뜻한 하루 일기 & AI 응원 (Warm Diary)",
+  "description": "오늘 있었던 일과 감정을 기록하고, Gemini AI 비서로부터 다정한 위로와 내일을 위한 따뜻한 제안을 받는 다이어리 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
